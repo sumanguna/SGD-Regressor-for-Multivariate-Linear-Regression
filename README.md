@@ -26,7 +26,7 @@ Iterative Training
 
 
 ## Program:
-```
+  ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: Suman G
@@ -93,7 +93,7 @@ Predictions:
  [ 2.73967825 35.37568192]
  [ 2.10914107 35.63894336]]
 */
-```
+ ```
 
 ## Output:
 
