@@ -23,12 +23,14 @@ Iterative Training
 ### Step 7:Model Evaluation 
 ### Step 8.:End
 
+
+
 ## Program:
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: vishal.s
-RegisterNumber: 212223240184
+Developed by: Suman G
+RegisterNumber: 212223240163
 
 
 import numpy as np
@@ -94,10 +96,15 @@ Predictions:
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/16d2b232-0ff6-4029-aab5-2a7ef36b5f31)
 
 
-![image](https://github.com/user-attachments/assets/46ef5b34-8d59-4995-baac-41dee5186c8f)
+
+mean
+
+![image](https://github.com/user-attachments/assets/ec45c748-c810-43c5-a338-409e7f95add9)
+
+![image](https://github.com/user-attachments/assets/3e47f3aa-9b55-4218-9807-56007c5b445e)
+
 
 
 ## Result:
